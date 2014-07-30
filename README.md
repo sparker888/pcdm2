@@ -26,3 +26,7 @@ I want to thank all of you that attended part 1, part 2 or both of the PCDM work
 By completing this workshop, you now have a firm grasp on the more intricate details of site building to an advanced level and how those intricacies when dealt with properly, can enhance the solutions you provide as well as enhance the user experience of those who will use the solutions you provide.
 
 In closing, to all my new Drupal friends, thank you… and by the way… you guys ROCK!
+
+### Installation
+Please drop by irc freenode #drupal-florida for any installation help and for the site password.  
+Instructions to get to irc can be found here: https://groups.drupal.org/node/428573
