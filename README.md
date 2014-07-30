@@ -1,7 +1,7 @@
 pcdm2
 =====
 
-Parent Child Data Modeling Workshop Part 2
+###Parent Child Data Modeling Workshop Part 2
 
 Congratulations!
 
@@ -19,7 +19,7 @@ Takeaways:
 
 
 
-A personal thank you from Jay:
+###A personal thank you from Jay:
 
 I want to thank all of you that attended part 1, part 2 or both of the PCDM workshops. I hope these methods will bring you success through your Drupal careers and that you will share your journeys with others at local meet up groups, on drupal.org or any other ways you see fit to contribute back to your community.
 
